@@ -27,8 +27,9 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** transitioning into **
 ## 🔗 Projects
 Check out my repositories for the projects I have worked on as I learn and implement the MERN stack:
 
+- [E commerce Website](https://github.com/themanikandang/E-commerce-Website)
 - [Recipe Finder App](https://github.com/themanikandang/recipe-finder)
-- [Weather App](https://github.com/themanikandang/weather-app)
+- [BookStore App](https://github.com/themanikandang/MERN-Book-Store)
 - [To-Do List App](https://github.com/themanikandang/todo-list-app)
 - [CRUD App](https://github.com/themanikandang/crud-app)
 
